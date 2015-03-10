@@ -63,7 +63,7 @@ You can host your Jekyll site for free with Github Pages. [Click here](https://p
 
 ## License
 
-Released under *public domain*.
+This project is licensed under the terms of the MIT license.
 
 ## Thanks to the following:
 
